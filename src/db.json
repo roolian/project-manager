@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "name": "Le projet mis à jours",
+      "client": "Supreme Cheesed",
+      "id": 1
+    },
+    {
+      "name": "le second projet",
+      "client": "Ali Baba",
+      "id": 2
+    },
+    {
+      "name": "Wahouuu",
+      "client": "Crèpes en folie",
+      "id": 3
+    }
+  ]
+}
